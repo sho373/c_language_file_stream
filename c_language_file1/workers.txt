@@ -1,4 +1,4 @@
 Ichiro Suzuki 10000 2
 Jiro Tanaka 20000 0
 Saburo Kaneko 30000 1
-Siro Ito 50000 3
+Siro Ito 50000 2
