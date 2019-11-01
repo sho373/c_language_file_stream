@@ -1,0 +1,4 @@
+Ichiro Suzki 100 50 60 40
+Jiro Suzki 30 40 50 60
+Saburo Tanaka 10 10 10 10
+Siro Kaneko 100 100 50 50
