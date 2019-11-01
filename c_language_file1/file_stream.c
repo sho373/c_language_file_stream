@@ -53,7 +53,7 @@ int main(void){
             if(fscanf(fp,"%s %s %f %f",
                 data[person].name,data[person].surname,
                 &data[person].salary,&data[person].score) != 4){/*読み込んだ項目が4じゃなかったらbreak*/
-                    printf("Wrong in number of elements.\n");
+                    printf("Wrong number of elements.\n");
                     break;
             }
             person++;
