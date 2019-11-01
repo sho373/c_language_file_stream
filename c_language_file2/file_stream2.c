@@ -61,7 +61,7 @@ int main(void){
             if(fscanf(fp,"%s %s %d %d %d %d",data[person].name,data[person].surname,
             &data[person].score1,&data[person].score2,
             &data[person].score3,&data[person].score4) != 6){ /*読み込んだデータの項目が6個じゃなかったらbreak*/
-                printf("Wrong in number of elements.\n");
+                printf("Wrong number of elements.\n");
                 break;
             }
 
